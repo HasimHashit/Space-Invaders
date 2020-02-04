@@ -1,0 +1,18 @@
+SPACE INVADERS
+------------------
+This is a game written in pygame the objective of the game is to shoot down all many enemies as possible.
+
+REQUIREMENTS
+----------------
+-Python 3 or 2
+-Pygame ==> pip install pygame or ==> python3 -m pip install pygame
+
+FIXES
+------
+-Havn't added sounds
+-The collision detection needs fixing
+-No game over screen
+
+BUGS
+------
+-Without having to press the space button to shoot,enemies would collide into you and die increasing your score without you even trying anything lol 
